@@ -1,0 +1,1 @@
+﻿SELECT TOP 1 Id, UserName, Email FROM dbo.AspNetUsers;
